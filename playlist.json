@@ -1,0 +1,21 @@
+{
+  "refreshSec": 600,
+  "items": [
+    {
+      "id": "img-1",
+      "type": "image",
+      "url": "https://images.unsplash.com/photo-1526318472351-c75fcf070305",
+      "durationSec": 8,
+      "campaignId": "cafe-miami",
+      "businessId": "biz-123"
+    },
+    {
+      "id": "vid-1",
+      "type": "video",
+      "url": "https://sample-videos.com/video321/mp4/720/big_buck_bunny_720p_1mb.mp4",
+      "durationSec": 12,
+      "campaignId": "gym-orlando",
+      "businessId": "biz-456"
+    }
+  ]
+}
