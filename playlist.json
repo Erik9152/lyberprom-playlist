@@ -1,21 +1,28 @@
 {
-  "refreshSec": 600,
-  "items": [
+  "playlist": [
     {
-      "id": "img-1",
-      "type": "image",
-      "url": "https://images.unsplash.com/photo-1526318472351-c75fcf070305",
-      "durationSec": 8,
-      "campaignId": "cafe-miami",
-      "businessId": "biz-123"
+      "id": "ad-1",
+      "type": "video",
+      "url": "https://drive.google.com/uc?export=download&id=1fJ8ZpELLmqTElOqTfdPsytpYT3C_LMYH",
+      "durationSec": null,
+      "campaignId": "business-1",
+      "businessId": "biz-001"
     },
     {
-      "id": "vid-1",
+      "id": "ad-2",
       "type": "video",
-      "url": "https://sample-videos.com/video321/mp4/720/big_buck_bunny_720p_1mb.mp4",
-      "durationSec": 12,
-      "campaignId": "gym-orlando",
-      "businessId": "biz-456"
+      "url": "https://drive.google.com/uc?export=download&id=1OegjEVjcJRugKoChsspOL3J3d1pb4dhU",
+      "durationSec": null,
+      "campaignId": "business-2",
+      "businessId": "biz-002"
+    },
+    {
+      "id": "ad-3",
+      "type": "video",
+      "url": "https://drive.google.com/uc?export=download&id=1VZS1sU5onV6Q8CLqSDOnzdann6f9ANS3",
+      "durationSec": null,
+      "campaignId": "business-3",
+      "businessId": "biz-003"
     }
   ]
 }
